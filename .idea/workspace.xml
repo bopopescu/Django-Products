@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="242fd643-510e-4d6a-ac9c-8a9f7aad6b4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pyshop1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTybsIDGpjHdNpqFkGyYHMHfNL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="242fd643-510e-4d6a-ac9c-8a9f7aad6b4f" name="Default Changelist" comment="" />
+      <created>1584877452397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584877452397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="233" width="354" height="320" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1584921600950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="506" y="233" width="354" height="320" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1366.738@0.0.1366.738" timestamp="1584921600950" />
+    <state x="213" y="23" key="DBNavigator.ProjectSettingsDialog" timestamp="1585643307242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="23" key="DBNavigator.ProjectSettingsDialog/0.0.1366.738@0.0.1366.738" timestamp="1585643307242" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1584923311344">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584923311344" />
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1585022453383">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585022453383" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1584923108987">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584923108987" />
+  </component>
+</project>
